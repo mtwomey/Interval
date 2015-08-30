@@ -13,7 +13,7 @@ V1.5 First released version
 
 Creates a timer which will fire repeatedly (unless it is later deleted). Returns an int identifying the timer.
 
-|<sub>Parameter</sub>|Description|
+|Parameter|Description|
 |---------|:----------|
 |f|pointer to a void function|
 |ms|function will fire every ms milliseconds|
